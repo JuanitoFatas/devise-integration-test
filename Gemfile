@@ -43,3 +43,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'devise', git: 'https://github.com/plataformatec/devise.git'
+gem 'capybara', git: 'https://github.com/jnicklas/capybara.git'
